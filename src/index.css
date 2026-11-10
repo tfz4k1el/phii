@@ -16,7 +16,4 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.writing-vertical {
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-}
+

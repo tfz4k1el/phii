@@ -39,6 +39,10 @@ export default function App() {
                 <p className="font-light text-xs sm:text-sm md:text-base tracking-[0.22em] text-[#5c5867] uppercase leading-relaxed max-w-md">
                   creative space for expression and expression
                 </p>
+                <div className="mt-8 flex items-center gap-2 text-[11px] font-mono tracking-[0.28em] uppercase text-[#967bb6]">
+                  <span className="w-1.5 h-1.5 rounded-full bg-[#c4a4ec] animate-pulse" />
+                  <span>coming soon</span>
+                </div>
               </div>
 
               {/* Right Column: Perfectly Placed Phii Artwork with Soft Lavender Aura */}
@@ -119,6 +123,11 @@ export default function App() {
             <p className="font-light text-xs sm:text-sm md:text-base tracking-[0.28em] text-[#6b6777] uppercase max-w-md leading-relaxed">
               creative space for expression and expression
             </p>
+
+            <div className="mt-8 flex items-center justify-center gap-2 text-[11px] font-mono tracking-[0.3em] uppercase text-[#967bb6]">
+              <span className="w-1.5 h-1.5 rounded-full bg-[#c4a4ec] animate-pulse" />
+              <span>coming soon</span>
+            </div>
           </div>
         </main>
       )}
@@ -149,6 +158,10 @@ export default function App() {
               <p className="mt-4 font-light text-xs sm:text-sm md:text-base tracking-[0.22em] text-[#555260] leading-relaxed max-w-sm lowercase">
                 creative space for expression and expression
               </p>
+              <div className="mt-8 flex items-center gap-2 text-[11px] font-mono tracking-[0.28em] uppercase text-[#967bb6]">
+                <span className="w-1.5 h-1.5 rounded-full bg-[#c4a4ec] animate-pulse" />
+                <span>coming soon</span>
+              </div>
             </div>
 
             {/* Art bleed (inspired by the woodcut contour in Image 3) */}
